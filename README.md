@@ -23,10 +23,19 @@
 
 - ⚡ Fun fact **I once taught myself to solve a Rubik's Cube in under a minute, and I enjoy practicing speedcubing in my free time!**
 
+<h3>Summary:</h3>
+<p>
+
+  I am a Founding Machine Learning Engineer at Spyn Inc., specializing in Natural Language Processing (NLP), Large Language Models (LLMs), and Computer Vision (CV). I have a strong background in developing Artificial Intelligence (AI)-driven solutions using TensorFlow, PyTorch, and Scikit-learn. My expertise includes building Gesture Recognition Models, AI-powered applications, and automated systems. Skilled in Python, JavaScript, and cloud services like AWS, GCP, and Azure. Passionate about leveraging Data Science, Data Analytics and MLOps to drive innovative solutions in the tech industry.
+
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amitbohra2821" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitbohra2821" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
