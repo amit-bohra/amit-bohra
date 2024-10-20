@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **9817kamit@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1lO2TL0ou3X2U8t-UPse2vh0r8no1U3zC/view?usp=sharing" target="_blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1-LJ6I2ony5yb7XkQQvq5eLqXtj4sRR-6/view?usp=sharing" target="_blank">Resume</a>
 
 - ⚡ Fun fact **I once taught myself to solve a Rubik's Cube in under a minute, and I enjoy practicing speedcubing in my free time!**
 
